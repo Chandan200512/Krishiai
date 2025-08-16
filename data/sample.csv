@@ -1,0 +1,5 @@
+Crop,Condition,Probability
+Tomato,Healthy,0.95
+Tomato,Leaf Blight,0.05
+Wheat,Healthy,0.90
+Wheat,Rust,0.10
